@@ -29,4 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedboyz&" alt="thedboyz" /></p>
 
-
+My Goal
+- [x] ESL Project
+- [ ] Web
