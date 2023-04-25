@@ -2,7 +2,7 @@
 
 <hr><br>
 
-<img src ="[https://gifsec.com/wp-content/uploads/2022/09/welcome-gif-50.gif](https://gifsec.com/wp-content/uploads/2022/11/chill-anime-gif-5.gif)" width="600px">
+<img src ="[https://gifsec.com/wp-content/uploads/2022/11/chill-anime-gif-5.gif]" width="600px">
 
 <h1 align="center">Hi 👋, I'm Blue</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
