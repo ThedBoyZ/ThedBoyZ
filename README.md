@@ -6,13 +6,13 @@
       <img src="https://komarev.com/ghpvc/?username=thedboyz&label=Profile%20views&color=0e75b6&style=flat" alt="thedboyz" />
     </p>
     <!-- Two images side by side in a row with 600x600px dimensions -->
-    <table border="0">
+    <table border="0" style="width: 100%;">
       <tr>
-        <td>
-          <img src="https://img2.pic.in.th/pic/59544ca7f7054065240efe84f26a972f.gif" width="300" height="300" alt="Image 1"/>
+        <td style="width: 50%;">
+          <img src="https://img2.pic.in.th/pic/59544ca7f7054065240efe84f26a972f.gif" style="width: 100%; height: auto;" alt="Image 1"/>
         </td>
-        <td>
-          <img src="https://img5.pic.in.th/file/secure-sv1/Hero-Killer-_-WEBTOON.jpg" width="300" height="300" alt="Image 2"/>
+        <td style="width: 50%;">
+          <img src="https://img5.pic.in.th/file/secure-sv1/Hero-Killer-_-WEBTOON.jpg" style="width: 100%; height: auto;" alt="Image 2"/>
         </td>
       </tr>
     </table>
