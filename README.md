@@ -11,13 +11,13 @@
       <div style="flex: 1;">
         <img src="https://img2.pic.in.th/pic/59544ca7f7054065240efe84f26a972f.gif"
              alt="59544ca7f7054065240efe84f26a972f"
-             style="width: 600px; height: 600px; object-fit: cover;">
+             style="width: 200px; height: 200px; object-fit: cover;">
       </div>
       <!-- Column 2 (second image) -->
       <div style="flex: 1;">
         <img src="https://img5.pic.in.th/file/secure-sv1/Hero-Killer-_-WEBTOON.jpg"
              alt="Hero Killer WEBTOON"
-             style="width: 600px; height: 600px; object-fit: cover;">
+             style="width: 200px; height: 200px; object-fit: cover;">
       </div>
     </div>
     <!-- Trophy section with margin top -->
