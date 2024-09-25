@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-left: 20px;">
+  <div style="flex: 1; justify-content: center; margin-left: 20px;">
     <h1>Hi 👋, I'm Blue</h1>
     <h3>A passionate Embedded AI and backend developer from Thailand</h3>
     <img src="https://gifsec.com/wp-content/uploads/2022/11/chill-anime-gif-5.gif" alt="animated gif" width="300" height="500" align="center" style="margin-right: 20px;">
