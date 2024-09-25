@@ -5,21 +5,21 @@
     <p align="left">
       <img src="https://komarev.com/ghpvc/?username=thedboyz&label=Profile%20views&color=0e75b6&style=flat" alt="thedboyz" />
     </p>
-    <!-- Adjust the image to stretch fully and add margin-bottom -->
-      <div style="display: flex; justify-content: space-between; gap: 20px;"> 
-        <!-- Column 1 (first image) -->
-        <div style="flex: 1;">
-          <img src="https://img2.pic.in.th/pic/59544ca7f7054065240efe84f26a972f.gif"
-               alt="59544ca7f7054065240efe84f26a972f
-               style="width: 100%; height: auto;">
-        </div>
-        <!-- Column 2 (second image) -->
-        <div style="flex: 1;">
-               <img src="https://img5.pic.in.th/file/secure-sv1/Hero-Killer-_-WEBTOON.jpg"
-               alt="Hero Killer WEBTOON" 
-               style="width: 100%; height: auto;">
-        </div>
+    <!-- Two images side by side with 600x600px dimensions -->
+    <div style="display: flex; justify-content: space-between; gap: 20px;">
+      <!-- Column 1 (first image) -->
+      <div style="flex: 1;">
+        <img src="https://img2.pic.in.th/pic/59544ca7f7054065240efe84f26a972f.gif"
+             alt="59544ca7f7054065240efe84f26a972f"
+             style="width: 600px; height: 600px; object-fit: cover;">
       </div>
+      <!-- Column 2 (second image) -->
+      <div style="flex: 1;">
+        <img src="https://img5.pic.in.th/file/secure-sv1/Hero-Killer-_-WEBTOON.jpg"
+             alt="Hero Killer WEBTOON"
+             style="width: 600px; height: 600px; object-fit: cover;">
+      </div>
+    </div>
     <!-- Trophy section with margin top -->
     <div style="flex: 1; margin-top: 20px;">
       <p align="left">
@@ -30,6 +30,7 @@
     </div>
   </div>
 </div>
+
 
 
 
