@@ -6,7 +6,7 @@
       <img src="https://komarev.com/ghpvc/?username=thedboyz&label=Profile%20views&color=0e75b6&style=flat" alt="thedboyz" />
     </p>
     <!-- Two images side by side in a row with 600x600px dimensions -->
-    <img src="https://img2.pic.in.th/pic/59544ca7f7054065240efe84f26a972f.gif" width="300" height="300" alt="Image 1"> <img src="https://img5.pic.in.th/file/secure-sv1/Hero-Killer-_-WEBTOON.jpg" width="300" height="300" alt="Image 2">
+    <img src="https://img2.pic.in.th/pic/59544ca7f7054065240efe84f26a972f.gif" width="400" height="300" alt="Image 1"> <img src="https://img5.pic.in.th/file/secure-sv1/Hero-Killer-_-WEBTOON.jpg" width="300" height="300" alt="Image 2">
     <!-- Trophy section with margin top -->
     <div style="flex: 1; margin-top: 20px;">
       <p align="left">
