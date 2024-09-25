@@ -15,8 +15,8 @@
         </div>
         <!-- Column 2 (second image) -->
         <div style="flex: 1;">
-          <img src="https://gifsec.com/wp-content/uploads/2022/11/chill-anime-gif-5.gif" 
-               alt="animated gif 2" 
+          <img src="[https://gifsec.com/wp-content/uploads/2022/11/chill-anime-gif-5.gif](https://img5.pic.in.th/file/secure-sv1/Hero-Killer-_-WEBTOON.jpg)" 
+               alt="Hero Killer WEBTOON" 
                style="width: 100%; height: auto;">
         </div>
       </div>
