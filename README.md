@@ -6,18 +6,22 @@
       <img src="https://komarev.com/ghpvc/?username=thedboyz&label=Profile%20views&color=0e75b6&style=flat" alt="thedboyz" />
     </p>
     <!-- Two images side by side in a row with 600x600px dimensions -->
-    <div style="display: flex; flex-direction: row; justify-content: space-between; gap: 20px;">
+    <div style="
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        ">
       <!-- Column 1 (first image) -->
       <div style="flex: 1;">
         <img src="https://img2.pic.in.th/pic/59544ca7f7054065240efe84f26a972f.gif"
              alt="59544ca7f7054065240efe84f26a972f"
-             style="width: 200px; height: 200px; object-fit: cover;">
+             style="width: 100px; height: 100px; object-fit: cover;">
       </div>
       <!-- Column 2 (second image) -->
       <div style="flex: 1;">
         <img src="https://img5.pic.in.th/file/secure-sv1/Hero-Killer-_-WEBTOON.jpg"
              alt="Hero Killer WEBTOON"
-             style="width: 200px; height: 200px; object-fit: cover;">
+             style="width: 100px; height: 200px; object-fit: cover;">
       </div>
     </div>
     <!-- Trophy section with margin top -->
