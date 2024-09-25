@@ -6,7 +6,7 @@
       <img src="https://komarev.com/ghpvc/?username=thedboyz&label=Profile%20views&color=0e75b6&style=flat" alt="thedboyz" />
     </p>
     <!-- Two images side by side with 600x600px dimensions -->
-    <div style="display: flex; justify-content: space-between; gap: 20px;">
+    <div style="display: flex; flex-direction: row; justify-content: space-between; gap: 20px;">
       <!-- Column 1 (first image) -->
       <div style="flex: 1;">
         <img src="https://img2.pic.in.th/pic/59544ca7f7054065240efe84f26a972f.gif"
