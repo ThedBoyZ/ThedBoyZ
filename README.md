@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; margin-left: 20px; max-width: 1000px;">
     <h1>Hi 👋, I'm Blue</h1>
-    <h3>A passionate Embedded AI and backend developer from Thailand</h3>
+    <h3>A passionate Embedded AI and frontend developer from Thailand</h3>
     <p align="left">
       <img src="https://komarev.com/ghpvc/?username=thedboyz&label=Profile%20views&color=0e75b6&style=flat" alt="thedboyz" />
     </p>
